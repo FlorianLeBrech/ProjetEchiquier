@@ -10,5 +10,5 @@ package Model;
  * @author Florian
  */
 public class Roi {
-    
+    int t;
 }
